@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sebastiano Trunfio</title>
+    <link>www.sebastianotrunfio.com/posts/</link>
+    <description>Recent content in Posts on Sebastiano Trunfio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Oct 2019 15:06:00 +0200</lastBuildDate>
+    
+	<atom:link href="www.sebastianotrunfio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finalmente il sito è online!</title>
+      <link>www.sebastianotrunfio.com/posts/finalmente-il-sito-%C3%A8-online/</link>
+      <pubDate>Wed, 16 Oct 2019 15:06:00 +0200</pubDate>
+      
+      <guid>www.sebastianotrunfio.com/posts/finalmente-il-sito-%C3%A8-online/</guid>
+      <description>Considerazioni 16&amp;frasl;10 Ho creato questo post per poter esprimere alcune considerazioni sul lavoro fino ad ora svolto. Questo post verrà aggiornato man mano che continuerà la costruzione del sito fino ad arrivare alla fase finale, testing e pubblicazione. Al momento della stesura, ho pubblicato il sito, e l&amp;rsquo;ho testato, ma ho avuto problemi con la piattaforma github riguardo il push/pull dei file. Sto ricreando le condizioni ideali per postare il sito completo, testarlo, e pubblicarlo su netlify.</description>
+    </item>
+    
+  </channel>
+</rss>
